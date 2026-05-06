@@ -147,6 +147,7 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 
 
-## 👨‍💻 Author
-
-Rahul Nautiyal
+<div align="center">
+  <p>Designed and Built by <b>Rahul Nautiyal ❤️</b></p>
+  <p>Released under the <a href="LICENSE">MIT License</a></p>
+</div>
